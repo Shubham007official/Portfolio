@@ -31,6 +31,7 @@ Welcome to my portfolio website! This is a showcase of my work, skills, and achi
 
 - HTML5
 - CSS3
+- JS
 - Git (for version control)
 
 ## Installation
