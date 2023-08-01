@@ -52,7 +52,7 @@ nav ul li a::after {
     content: '';
     width: 0;
     height: 3px;
-    background: #ff004f;
+    background: #4a60ee;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -74,7 +74,7 @@ nav ul li a:hover::after {
 }
 
 .header-text h1 span {
-    color: #ff004f;
+    color: #5b28f5;
 }
 
 /* ----------ABOUT---------- */
@@ -125,7 +125,7 @@ nav ul li a:hover::after {
     content: '';
     width: 0;
     height: 3px;
-    background: #ff004f;
+    background: #4a60ee;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -145,7 +145,7 @@ width: 100%;
 }
 
 .tab-contents ul li span {
-    color: #b54768;
+    color: #4a60ee;
     font-size: 14px;
 }
 
@@ -199,7 +199,7 @@ width: 100%;
 }
 
 .services-list div:hover {
-    background: #ff004f;
+    background: #4a60ee;
     transform: translateY(-10px);
 }
 
@@ -231,7 +231,7 @@ width: 100%;
 .layer {
     width: 100%;
     height: 0;
-    background: #ff004f;
+    background: #4a60ee;
     border-radius: 10px;
     position: absolute;
     left: 0;
@@ -276,7 +276,7 @@ width: 100%;
     display: block;
     margin: 50px auto;
     width: fit-content;
-    border: 1px solid #ff004f;
+    border: 1px solid #4a60ee;
     padding: 14px 50px;
     border-radius: 6px;
     color: #fff;
@@ -285,7 +285,7 @@ width: 100%;
 }
 
 .btn:hover {
-    background: #ff004f;
+    background: #4a60ee;
 }
 
 /* ----------CONTACT---------- */
@@ -302,7 +302,7 @@ width: 100%;
 }
 
 .contact-left p i {
-    color: #ff004f;
+    color: #4a60ee;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -321,7 +321,7 @@ width: 100%;
 }
 
 .social-icons a:hover {
-    color: #ff004f;
+    color: #4a60ee;
     transform: translateY(-5px);
 }
 
@@ -337,7 +337,7 @@ width: 100%;
 }
 
 .btn.btn3:hover {
-    background: #ff004f;
+    background: #4a60ee;
 }
 
 .contact-right form {
@@ -367,7 +367,7 @@ form textarea {
 }
 
 .copyright i {
-    color: #ff004f;
+    color: #4a60ee;
     transition: color 0.5s;
 }
 
