@@ -37,7 +37,7 @@ Welcome to my portfolio website! This is a showcase of my work, skills, and achi
 
 If you wish to run this website locally, follow these steps:
 
-1. Clone the repository: `[git clone https://github.com/your-username/your-portfolio-website.git](https://github.com/Shubham007official/portfolio.git)`
+1. Clone the repository: `https://github.com/Shubham007official/portfolio.git`
 2. Navigate to the project directory: `cd your-portfolio-website`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
