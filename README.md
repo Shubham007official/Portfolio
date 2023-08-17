@@ -39,10 +39,6 @@ Welcome to my portfolio website! This is a showcase of my work, skills, and achi
 If you wish to run this website locally, follow these steps:
 
 1. Clone the repository: `https://github.com/Shubham007official/portfolio.git`
-2. Navigate to the project directory: `cd your-portfolio-website`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and go to: `http://localhost:3000`
 
 ## Usage
 
@@ -54,5 +50,5 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## License
 
-This project is licensed under the [Shubham waghmare]
+This project is licensed under the F-society
 
