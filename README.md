@@ -1,14 +1,12 @@
 # My Portfolio Website
 
-![Portfolio Website Screenshot](portfolio-screenshot.png)
-
 ## Description
 
 Welcome to my portfolio website! This is a showcase of my work, skills, and achievements as a web developer. The website is designed to provide an overview of my projects and highlight my expertise in various technologies. Feel free to explore and get in touch with me for any opportunities or collaborations.
 
 ## Live Website
 
-[Visit the live website](https://www.myportfoliowebsite.com)
+[Visit the live website](https://shubham007official.github.io/Portfolio/)
 
 ## Table of Contents
 
@@ -39,10 +37,6 @@ Welcome to my portfolio website! This is a showcase of my work, skills, and achi
 If you wish to run this website locally, follow these steps:
 
 1. Clone the repository: `https://github.com/Shubham007official/portfolio.git`
-2. Navigate to the project directory: `cd your-portfolio-website`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and go to: `http://localhost:3000`
 
 ## Usage
 
@@ -54,5 +48,5 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## License
 
-This project is licensed under the [Shubham waghmare]
+This project is licensed under the F-society
 
